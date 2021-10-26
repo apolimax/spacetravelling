@@ -1,8 +1,10 @@
 # Spacetravelling
 
 <p align="center">
-  <img src="spacetravelling-screenshot.png" alt="spacetravelling screenshot />
+  <img src="spacetravelling-screenshot.png" alt="spacetravelling screenshot" height="500px" />
 </p>
+
+
 
 ## 🚀 Tecnologias
 
