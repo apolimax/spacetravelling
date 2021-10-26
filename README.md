@@ -1,6 +1,8 @@
 # Spacetravelling
 
-![spacetravelling blog screenshot](https://www.petz.com.br/blog/wp-content/uploads/2021/03/piercing-para-cachorro-2.jpg)
+<p align="center">
+  <img src="" alt="spacetravelling screenshot />
+</p>
 
 ## 🚀 Tecnologias
 
